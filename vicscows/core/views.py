@@ -3,4 +3,4 @@ from django.conf import settings
 
 # Create your views here.
 def home(request):
-    return render(request, "core/base.html")
+    return render(request, "core/inicio.html")
