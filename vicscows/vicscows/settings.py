@@ -8,6 +8,12 @@ https://docs.djangoproject.com/en/5.1/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
+
+Author: Fatima Rojas Salamanca y Equipo The Howlders
+Github:
+Project: Vic's Cows
+File: settings.py
+Description: Configuracion de Proyecto Vic's Cows 2024
 """
 
 from pathlib import Path
