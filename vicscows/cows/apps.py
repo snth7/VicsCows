@@ -1,7 +1,7 @@
 from django.apps import AppConfig
 
 
-class CoreConfig(AppConfig):
+class CowsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'core'
-    verbose_name = 'Vics Cows'
+    name = 'cows'
+    verbose_name = 'Cows'
